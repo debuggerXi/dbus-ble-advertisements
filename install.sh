@@ -3,12 +3,12 @@
 # Remote installer for dbus-ble-advertisements on Venus OS
 # 
 # Usage:
-#   curl -fsSL https://raw.githubusercontent.com/TechBlueprints/dbus-ble-advertisements/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/debuggerXi/dbus-ble-advertisements/main/install.sh | bash
 #
 
 set -e
 
-REPO_URL="https://github.com/TechBlueprints/dbus-ble-advertisements.git"
+REPO_URL="https://github.com/debuggerXi/dbus-ble-advertisements.git"
 INSTALL_DIR="/data/apps/dbus-ble-advertisements"
 SERVICE_NAME="dbus-ble-advertisements"
 
